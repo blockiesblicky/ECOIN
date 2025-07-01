@@ -1,1 +1,22 @@
 
+{
+  "name": "E-Coin",
+  "symbol": "ECOIN",
+  "description": "The official E-Coin on Solana.",
+  "image": "https://rukonversquazion.github.io/ECOIN/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://rukonversquazion.github.io/ECOIN/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Arfz2Qsn6dmURZERPzZWHtbKCtzjXu5iUdKmFXUEoQTk",
+        "share": 100
+      }
+    ]
+  }
+}
