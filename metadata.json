@@ -1,8 +1,7 @@
-
 {
-  "name": "E-Coin",
-  "symbol": "ECOIN",
-  "description": "The official E-Coin on Solana.",
+  "name": "Esquenazi Coin",
+  "symbol": "ESQoN",
+  "description": "A Call to the Esquenazi Family: The Official Esquenazi Coin on Solana. Greetings! I'm Leon Esquenazi, and I've created this coin as a beacon to unite our dispersed family worldwide. Built on the efficient Solana blockchain, this project aims to foster our shared history and future through decentralized community and mutual support, no matter where you are. While we build something impactful together in the crypto space, my personal mission is to connect with more of our family members across all continents. Join the Esquenazi Coin community and help me, Leon Esquenazi, rediscover and strengthen our global family bonds!",
   "image": "https://rukonversquazion.github.io/ECOIN/logo.png",
   "properties": {
     "files": [
